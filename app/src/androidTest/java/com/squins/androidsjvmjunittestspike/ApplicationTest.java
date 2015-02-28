@@ -1,4 +1,4 @@
-package squins.com.androidsjvmjunittestspike;
+package com.squins.androidsjvmjunittestspike;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

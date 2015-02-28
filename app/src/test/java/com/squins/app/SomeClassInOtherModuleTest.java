@@ -2,7 +2,7 @@ package com.squins.app;
 
 import org.junit.Test;
 
-import squins.com.common.SomeClass;
+import com.squins.common.SomeClass;
 
 import static org.junit.Assert.assertEquals;
 
