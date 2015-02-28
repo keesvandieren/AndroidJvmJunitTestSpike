@@ -1,4 +1,4 @@
-package squins.com.common;
+package com.squins.common;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

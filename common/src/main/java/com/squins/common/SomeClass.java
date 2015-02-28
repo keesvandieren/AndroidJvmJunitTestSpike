@@ -1,4 +1,4 @@
-package squins.com.common;
+package com.squins.common;
 
 public class SomeClass {
     
@@ -8,6 +8,6 @@ public class SomeClass {
     
     
     public void referenceDrawableFromR() {
-        System.out.println("Reference drawable!" + R.drawable.sample);
+        System.out.println("Reference drawable!" + com.squins.common.R.drawable.sample);
     }
 }
