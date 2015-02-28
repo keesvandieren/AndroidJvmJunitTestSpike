@@ -44,6 +44,7 @@ This results in error:
             Caused by: java.lang.ClassNotFoundException at SomeClassReferencingRTest.java:10
 
 And in the test report:
+
     java.lang.NoClassDefFoundError: com/squins/common/R$drawable
         at com.squins.common.SomeClass.referenceDrawableFromR(SomeClass.java:10)
         at com.squins.common.SomeClassReferencingRTest.testEchoR(SomeClassReferencingRTest.java:10)
