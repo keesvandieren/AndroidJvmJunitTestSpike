@@ -8,6 +8,8 @@
 
 ## Current status
 
+I have problems to get Java unit-testing to work for an android library project.
+
 Gradle command: `./gradlew clean test` runs into the following error:
 
     :common:compileDebugUnitTestJava
